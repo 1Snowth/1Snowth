@@ -4,7 +4,6 @@
   <br>
   <br>
 </div>
-
 <div>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
   <p align="center">
@@ -45,6 +44,14 @@
 <!--   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=1snowth&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" /> -->
 <!--   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=1snowth&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" /> -->
   <br />
+  <p>
+   <h3> 🤝🏻 Connect with me </h3>
+  <a href="mailto:bryanalejandro132@gmail.com?subject=[GitHub]%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/1Snowth_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/1Snowth"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
   
   ![Visitor Count](https://profile-counter.glitch.me/{1Snowth}/count.svg)
+
+  
 </div>
