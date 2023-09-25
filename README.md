@@ -16,7 +16,7 @@
     <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-    <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
     <br />
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
@@ -32,7 +32,6 @@
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/sap/sap-ar21.svg"></code>
-    <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
     <br />
     <code><img width="10%" src="https://user-images.githubusercontent.com/59575502/127426965-45da81b5-987d-4f44-b4d7-249fae487a0a.png"></code>
     <code><img width="10%" src="https://vectorwiki.com/images/6lBk3__ngrx.svg"></code>
