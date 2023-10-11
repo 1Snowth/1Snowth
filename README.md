@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center"><b>Hi , I'm Bryan Silva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  I'm a Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and   programming languages.
+  I'm a Software Enginner Full Stack Developer with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and   programming languages.
   <br>
   <br>
 </div>
